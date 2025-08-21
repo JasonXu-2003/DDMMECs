@@ -8,8 +8,7 @@ English | [简体中文](#简体中文)
 
 ## Overview
 This repository contains the full source code, data, and supplementary
-materials for **“Multimedia Fate and Screening-Level Health Risk
-Assessment of PFOA in a Coastal Megacity (Shenzhen, China)”**  
+materials for **“Data-driven multimedia modeling of emerging contaminants in urban environments (Shenzhen, China)”**  
 (Manuscript under review, *Environmental Science & Technology*).
 
 Key features  
@@ -20,7 +19,7 @@ Key features
 * Screening-level ILCR computation for four demographic cohorts
   (children, teenagers, adult females, adult males).  
 * Reproducible Jupyter notebooks and all Supplementary Information
-  (Text S1–S9, Tables S1–S9, Eq. S1).
+  (Eq. S1, Text S1–S4, Tables S1–S12, Fig S1-S7).
 
 ---
 # Code is coming soon
